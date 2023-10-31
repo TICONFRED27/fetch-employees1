@@ -1,10 +1,10 @@
-import {} from "react";
+import React from "react";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <div>vsdfljvnsflvjbsflvjbnsflv</div>
+      <div>frederic</div>
     </>
   );
 }

@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-unused-vars
 import React from "react";
 import "./App.css";
 import DisplayEmployee from "./components/DisplayEmployee";
@@ -24,9 +23,9 @@ function App() {
     },
   };
   return (
-    <>
+    <div className="App">
       <DisplayEmployee employee={sampleEmployee} />
-    </>
+    </div>
   );
 }
 
